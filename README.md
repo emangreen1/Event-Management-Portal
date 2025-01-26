@@ -246,7 +246,6 @@ The project requires the following Python packages and versions:
 
 # Acknowledgments
 
-* The project is developed by **Abhishek Bhattacharjee**.
 * This project covers the features of Event Management System.
 * The project has been developed using monolithic approach.
 * The project is developed using Django, a high-level Python web framework that encourages rapid development and clean, pragmatic design.
